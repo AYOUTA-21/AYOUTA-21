@@ -16,11 +16,14 @@
 Not there yet.
 Working on it.
 
-<h2 align="left">💌 Let's Connect</h2>
-
-[![GitHub Badge](https://img.shields.io/badge/-AYOUTA-21-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AYOUTA-21)
-
-[![Instagram Badge](https://img.shields.io/badge/-@brahimi5466-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/brahimi5466)
-
-[![Email Badge](https://img.shields.io/badge/-na__brahimi@esi.dz-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:na_brahimi@esi.dz)
-```
+<p align="left">
+  <a href="https://github.com/AYOUTA-21">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://instagram.com/brahimi5466">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:na_brahimi@esi.dz">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
