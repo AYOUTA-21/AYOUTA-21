@@ -16,7 +16,9 @@
 Not there yet.
 Working on it.
 
-## Say hi
+
+<h2 align="left">
+## say hi </h2>
 
 If you want to collaborate on a project, ask me about something I've built, or just talk tech, message me on Instagram or send me an email.
 
