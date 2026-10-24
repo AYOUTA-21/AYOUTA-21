@@ -16,7 +16,9 @@
 Not there yet.
 Working on it.
 
-Let's Connect
+## Say hi
+
+If you want to collaborate on a project, ask me about something I've built, or just talk tech, message me on Instagram or send me an email.
 
 <p align="left">
   <a href="https://github.com/AYOUTA-21">
