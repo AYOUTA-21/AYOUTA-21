@@ -16,6 +16,8 @@
 Not there yet.
 Working on it.
 
+Let's Connect
+
 <p align="left">
   <a href="https://github.com/AYOUTA-21">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
