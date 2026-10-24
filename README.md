@@ -10,13 +10,11 @@
  </abc>
 </h2>
 
-<h2 align="left">👨🏻‍💻 About Me</h2>
+<h2 align="left">
+## About Me</h2>
 
-- 🎓 Computer Science Student
-- 💻 Building more than I talk about
-- ⚡ Learning by creating, not just watching
-- 🧠 Curious about how things work—and how to make them better
-- 🚀 404: Comfort Zone Not Found.
+Not there yet.
+Working on it.
 
 <h2 align="left">💌 Let's Connect</h2>
 
